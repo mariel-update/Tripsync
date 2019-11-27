@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class WelcomeComponent implements OnInit {
 
-  tittle = 'Tripsync';
+  tittle = 'TRIPSYNC';
 
   constructor() { }
 
@@ -15,3 +15,5 @@ export class WelcomeComponent implements OnInit {
   }
 
 }
+
+export class ButtonOverviewExample {}
